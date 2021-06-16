@@ -6,8 +6,16 @@
  */
 public class HolaMundo {
     public static void main(String args[]){
-        System.out.println("Hola Mundo desde Java");
-        System.out.println("hola prueba de sout");
+        String saludos = "Hola Mundo desde Java";
+        System.out.println(saludos);
+        System.out.println(saludos);
+        System.out.println(saludos);        
+        
+        var despedirse  = "hasta luego";
+        System.out.println(despedirse);
+        
+        var numero = 1;
+        System.out.println(numero);       
         
     }
 }
