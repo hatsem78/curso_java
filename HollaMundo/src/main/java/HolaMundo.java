@@ -21,8 +21,6 @@ public class HolaMundo {
         
         /* si encuentra un tipo entero o flotante realiza la suma y despueès concatena*/
         System.out.println(i + j + hola);
-                
-        
         
     }
 }
