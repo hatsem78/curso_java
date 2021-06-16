@@ -6,16 +6,23 @@
  */
 public class HolaMundo {
     public static void main(String args[]){
-        String saludos = "Hola Mundo desde Java";
-        System.out.println(saludos);
-        System.out.println(saludos);
-        System.out.println(saludos);        
+        var usuario = "juan";
+        var hola = "Hola";
         
-        var despedirse  = "hasta luego";
-        System.out.println(despedirse);
+        System.out.println(hola + " " + usuario);
         
-        var numero = 1;
-        System.out.println(numero);       
+        var i = 3;
+        var j = 4;
+        
+        System.out.println(i + j);
+        
+        /* encuentra un string con lo cual realiza una conatenaciòn */
+        System.out.println(hola + i + j);
+        
+        /* si encuentra un tipo entero o flotante realiza la suma y despueès concatena*/
+        System.out.println(i + j + hola);
+                
+        
         
     }
 }
