@@ -19,7 +19,7 @@ public class PalabraNull {
         else
             System.out.println("variable persona1 no apunta a ningun lado");
         persona2 = null;
-        System.gc(); /*manda a ejcutar el recolector de vasuara cuando se ueda*/
+        System.gc(); /* garbage collector manda a ejcutar el recolector de vasuara cuando se ueda*/
     }
 }
 
