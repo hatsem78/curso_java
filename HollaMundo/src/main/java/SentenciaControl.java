@@ -96,7 +96,7 @@ public class SentenciaControl {
                             
         }
         
-        System.out.println("Estacion " + estacion + "Mes proporcionado " + estacionMes);
+        System.out.println("Estacion " + estacion + "Mes proporcionado " + estacion);
     }
 
 }
