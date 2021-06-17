@@ -25,4 +25,19 @@ public class Aritmetica {
         int resultado = a + b;
         return resultado;
     }
+    
+    public int resta() {
+        int resultado = a - b;
+        return resultado;
+    }
+    
+    public int multiplicar() {
+        int resultado = a * b;
+        return resultado;
+    }
+    
+    public int dividir() {
+        int resultado = a + b;
+        return resultado;
+    }
 }
