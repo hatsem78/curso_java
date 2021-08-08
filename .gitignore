@@ -62,3 +62,5 @@ hs_err_pid*
 /EntradaDatos/target/
 /CalculadoraEntradaDato/target/
 /ManejoArchivo/target/
+/introduccionJODBC/target/
+/manejoJDBC/target/
