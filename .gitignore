@@ -87,3 +87,13 @@ hs_err_pid*
 /Ejemplo1MVC/target/
 /Ejemplo2MVC/target/
 /ControlCliente/target/
+/Hibernate/target/
+/HibernateEjemplo1 (1)/HibernateEjemplo1/target/
+/HibernateEjemplo1/HibernateEjemplo1/target/
+/ar.com.linkworddeveloper_HibernateEjemplo2_jar_1.0/target/
+/PersonasWebHibernate/target/
+/SgaWebHibernateJPA/target/
+/ar.com.linkworddeveloper_SgaWebHibernateJPA2_war_1.0/target/
+/ar.com.linkworddeveloper_SgaWebHibernateJPA3_war_1.0_1/target/
+/ar.com.linkworddeveloper_SgaWebHibernateJPAWeb_war_1.0/target/
+/SgaWebHibernateJPAWeb/target/
